@@ -1,5 +1,7 @@
 .sideBar {
+  align-items: center;
   display: flex;
+  flex-direction: column;
   background-color: #cce8fe;
   width: 25%;
   height: 100%;
@@ -7,6 +9,16 @@
 }
 
 .sideBar-inner {
-  padding-top: 50px;
-  width: 100%;
+  padding-top: 25px;
+  width: 50%;
+  overflow-wrap: break-word;
+}
+
+.xx {
+  overflow-wrap: break-word;
+  width: 75%;
+}
+
+.sadsa {
+  word-wrap: break-word;
 }
