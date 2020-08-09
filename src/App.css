@@ -8,6 +8,8 @@ body {
   background-color: #1993f6;
   justify-content: center;
   align-items: center;
+  font-family: "Roboto", "sans-serif";
+  font-size: 14px;
 }
 
 .app {

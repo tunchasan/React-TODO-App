@@ -3,4 +3,10 @@
   background-color: #cce8fe;
   width: 25%;
   height: 100%;
+  max-width: 235px;
+}
+
+.sideBar-inner {
+  padding-top: 50px;
+  width: 100%;
 }
