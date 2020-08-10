@@ -2,3 +2,35 @@
   width: 300px;
   background-color: #cce8fe;
 }
+
+.addCollectionIcon {
+  width: 45px;
+  height: 45px;
+  background-color: #198cff;
+
+  border-radius: 50%;
+  box-shadow: 0 6px 10px 0 #666;
+  transition: all 0.1s ease-in-out;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.addCollectionIcon:hover {
+  box-shadow: 0 6px 14px 0 #666;
+  transform: scale(1.05);
+}
+
+.addCollectionIcon h1 {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 45px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.addCollectionIcon_container {
+  position: fixed;
+  bottom: 10%;
+  left: 8%;
+}
