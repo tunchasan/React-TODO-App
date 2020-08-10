@@ -1,24 +1,4 @@
-.sideBar {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
+.sideBar_container {
+  width: 300px;
   background-color: #cce8fe;
-  width: 25%;
-  height: 100%;
-  max-width: 235px;
-}
-
-.sideBar-inner {
-  padding-top: 25px;
-  width: 50%;
-  overflow-wrap: break-word;
-}
-
-.xx {
-  overflow-wrap: break-word;
-  width: 75%;
-}
-
-.sadsa {
-  word-wrap: break-word;
 }

@@ -13,8 +13,9 @@ body {
 }
 
 .app {
+  display: flex;
   overflow: hidden;
-  max-width: 940px;
+  max-width: 1360px;
   background: white;
   width: 100vw;
   height: 80vh;
